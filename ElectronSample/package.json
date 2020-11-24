@@ -1,0 +1,20 @@
+{
+  "name": "ElectronSample",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://SeanR0659@dev.azure.com/SeanR0659/ElectronSample/_git/ElectronSample"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
